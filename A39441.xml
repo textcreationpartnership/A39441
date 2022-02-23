@@ -1,0 +1,439 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Abridgement of the statutes made in the thirteenth year of the reign of King Charles the Second alphabetically digested under apt titles and heads for the ready finding out of the matter.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39441</idno>
+            <idno type="STC">Wing E860</idno>
+            <idno type="STC">ESTC R6329</idno>
+            <idno type="EEBO-CITATION">12142687</idno>
+            <idno type="OCLC">ocm 12142687</idno>
+            <idno type="VID">54868</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39441)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54868)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 761:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Abridgement of the statutes made in the thirteenth year of the reign of King Charles the Second alphabetically digested under apt titles and heads for the ready finding out of the matter.</title>
+                  <author>England and Wales. Laws, etc.</author>
+               </titleStmt>
+               <extent>[6], 39 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The table" [i.e. index]: prelim. p. [5]-[6].</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Law --  England --  Digests.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:54868:1"/>
+            <pb facs="tcp:54868:1" rendition="simple:additions"/>
+            <p>
+               <hi>AN</hi> ABRIDGEMENT <hi>OF THE</hi> STATUTES Made In the Thirteenth year of the Reign of KING <hi>CHARLES</hi> The Second: Alphabetically digeſted un<g ref="char:EOLhyphen"/>der apt Titles and Heads for the ready finding out of the matter.</p>
+            <p>
+               <hi>LONDON.</hi> Printed in the year of our Lord <hi>M.DC.LXI.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:54868:2"/>
+            <pb facs="tcp:54868:2"/>
+            <head>A brief view of this BOOK.</head>
+            <p>A Recitation of all ſuch Acts by their particular Titles as have received by this Parliament a Confirmation, <hi>viz:</hi>
+            </p>
+            <p>The Repeal of ſuch Statutes as were injurious to the Church, and Eccleſiaſtical Juriſdiction.</p>
+            <p>The ſole Right of the <hi>Militia</hi> proved to be in the King.</p>
+            <p>What Offences are now made Treaſon.</p>
+            <p>The puniſhment to be inflicted on ſuch as Speak, Write, &amp;c. any thing againſt the King or His Go<g ref="char:EOLhyphen"/>vernment, either in Church or State.</p>
+            <p>What puniſhment ſhall be to thoſe that meet in any diſorderly numbers, under pretence of pre<g ref="char:EOLhyphen"/>ſenting publick Petitions or Ad<g ref="char:EOLhyphen"/>dreſſes.</p>
+            <p>Moneys, Goods, &amp;c. veſted in the King.</p>
+            <pb facs="tcp:54868:3"/>
+            <p>How ſuch as are excepted out of the Act of Oblivion are to be call'd to an Accompt for Moneys, Goods, &amp;c.</p>
+            <p>What Pains, Penalties &amp; For<g ref="char:EOLhyphen"/>feitures are to be inflicted on ſuch perſons as are excepted out of the late Act of Oblivion.</p>
+            <p>The Government of the Navy, &amp; for puniſhing all Offences com<g ref="char:EOLhyphen"/>mitted therein.</p>
+            <p>Concerning the Arrears of Ex<g ref="char:EOLhyphen"/>ciſe.</p>
+            <p>Killing of Deer, &amp;c.</p>
+            <p>All which, by the Table fol<g ref="char:EOLhyphen"/>lowing, you will be more particu<g ref="char:EOLhyphen"/>larly ſatisfied in: where, by apt and ſignificant Titles you will be dire<g ref="char:EOLhyphen"/>cted without any further trouble to the main matter in the Book.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:54868:3"/>
+            <head>The Table.</head>
+            <list>
+               <item>ADdreſſes and petitions, <hi>ſee</hi> Tumults.</item>
+               <item>Attempts againſt the King, <hi>ſee</hi> Treaſon.</item>
+               <item>Articles for the Navy, <hi>ſee</hi> Navy Or<g ref="char:EOLhyphen"/>ders.</item>
+               <item>Accompts, <hi>ſee</hi> Moneys, Goods, <hi>&amp;c.</hi> ve<g ref="char:EOLhyphen"/>ſted in the King.</item>
+               <item>Benevolence, <hi>ſee</hi> Preſent to the King.</item>
+               <item>Biſhops, and perſons in Holy Orders, <hi>ſee</hi> Holy Orders, and Commiſſioners for Cauſes Eccleſiaſticall.</item>
+               <item>Collectors, <hi>ſee</hi> Moneys, Goods, <hi>&amp;c.</hi>
+               </item>
+               <item>Confirmation. <hi>page 1.</hi>
+               </item>
+               <item>Cauſes Eccleſiaſtical. <hi>page 5</hi>
+               </item>
+               <item>Carriages, <hi>&amp;c.</hi> for the King. <hi>page 7</hi>
+               </item>
+               <item>Dear-ſtealing, Killing, <hi>&amp;c. page 11</hi>
+               </item>
+               <item>Diſorders, <hi>ſee</hi> Tumults.</item>
+               <item>Exciſe Arrears veſted in the King. <hi>page 12</hi>
+               </item>
+               <item>Free Preſent, <hi>ſee</hi> Preſent.</item>
+               <item>Forfeitures to the King, <hi>ſee</hi> Pains and Penalties.</item>
+               <pb facs="tcp:54868:4"/>
+               <item>Holy Orders. <hi>page 14</hi>
+               </item>
+               <item>The King's Perſon and Government, <hi>ſee</hi> Treaſon.</item>
+               <item>Militia. <hi>ibid.</hi>
+               </item>
+               <item>Moneys, Goods, <hi>&amp;c.</hi> veſted in the King. <hi>page 17</hi>
+               </item>
+               <item>Navy-Orders. <hi>page 19</hi>
+               </item>
+               <item>Progreſs and Removals, <hi>ſee</hi> Carriages.</item>
+               <item>Preſent to the King. <hi>page 27</hi>
+               </item>
+               <item>Pains, Penalties, <hi>&amp;c.</hi> on excepted Per<g ref="char:EOLhyphen"/>ſons. <hi>page 28</hi>
+               </item>
+               <item>Preſervation of the King's Perſon and Government, <hi>ſee</hi> Treaſon.</item>
+               <item>Petitions and Addreſſes, <hi>ſee</hi> Tumults.</item>
+               <item>Receivers, <hi>ſee</hi> Moneys, Goods, <hi>&amp;c.</hi>
+               </item>
+               <item>Speaking, Writing, <hi>&amp;c.</hi> againſt the King, <hi>ſee</hi> Treaſon.</item>
+               <item>Treaſurer, <hi>ſee</hi> Moneys, Goods, <hi>&amp;c.</hi>
+               </item>
+               <item>Treaſon. <hi>page 34</hi>
+               </item>
+               <item>Tumults. <hi>page 38</hi>
+               </item>
+               <item>Writing againſt the King, <hi>&amp;c. ſee</hi> Trea<g ref="char:EOLhyphen"/>ſon.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:54868:4"/>
+            <head>
+               <hi>AN</hi> ABRIDGEMENT of the Statutes of the Par<g ref="char:EOLhyphen"/>liament began at <hi>Weſtminſter</hi> the 8<hi rend="sup">th</hi> day of <hi>May,</hi> in the 13<hi rend="sup">th</hi> yeare of the Reigne of King <hi>CHARLES</hi> the Second.</head>
+            <p>Addreſſes and petitions, ſee Tumults.</p>
+            <p>Attempts againſt the King, ſee Treaſon.</p>
+            <p>Accompts, ſee Treaſurers.</p>
+            <p>Biſhops, and perſons in Holy Orders, ſee Orders Holy, and Commiſſioners for Cauſes Eccleſiaſticall.</p>
+            <div type="part">
+               <head>Confirmation.</head>
+               <p>
+                  <hi>STat.</hi> 13. <hi>Car.</hi> 2. <hi>cap.</hi> 17. Enacted, That all and ſingular the Acts made or mentioned to be made by his Majeſty (by and with the advice and conſent of the Lords and Commons) upon or ſince the 25th day of <hi>April,</hi> in the 12th year of his Majeſties Reign, herein after particu<g ref="char:EOLhyphen"/>larly mentioned and expreſſed, ſhall be and hereby are ratified and confirmed, That is to ſay.</p>
+               <pb n="2" facs="tcp:54868:5"/>
+               <p n="1">1. One Act of Free and Generall Pardon, Indemonity and Oblivion.</p>
+               <p n="2">2. One other Act, entituled, A Subſidy granted to the King of Tonnage and Poun<g ref="char:EOLhyphen"/>dage, and other Sums of money payable upon Merchandize exported and imported.</p>
+               <p n="3">3. An Act, intituled, An Act for continu<g ref="char:EOLhyphen"/>ing the Exciſe untill the 20th of <hi>Auguſt,</hi> 1660.</p>
+               <p n="4">4. An Act for continuing the Exciſe till the 25th day of <hi>December,</hi> 1660.</p>
+               <p n="5">5. An Act for the ſpeedy proviſion of mo<g ref="char:EOLhyphen"/>ney, for disbanding and paying off the Forces of this Kingdome both by Land and Sea.</p>
+               <p n="6">6. An Act for Confirmation of Judiciall procedings.</p>
+               <p n="7">7. An Act for the ſpeedy disbanding of the Army and Garriſons of this Kingdome.</p>
+               <p n="8">8. An Act for Supplying and Explaining certain defects in an Act, entituled, An Act for the ſpeedy proviſion of money for Disban<g ref="char:EOLhyphen"/>ding and paying off the Forces of this King<g ref="char:EOLhyphen"/>dome both by Land and Sea.</p>
+               <p n="9">9. An Act to prevent Frauds and Conceal<g ref="char:EOLhyphen"/>ments of his Majeſties Cuſtoms and Subſi<g ref="char:EOLhyphen"/>dies.</p>
+               <p n="10">10. An Act for raiſing Seavenſcore thou ſand pounds for the Compleat Disbanding of the whole Army, and Paying oft ſome part of the Navy.</p>
+               <p n="11">11. One other Act, entituled, A grant of certain Impoſitions upon Beer, Ale, and other Liquors, for the increaſe of his Majeſties Re<g ref="char:EOLhyphen"/>venue during his life.</p>
+               <p n="12">12. An Act for taking away the Court of
+<pb n="3" facs="tcp:54868:5"/>Wards and Liveries and Tenures in Capite' and by Knights Service, and Purveyance' and for ſetling a Revenue upon his Majeſty in Lieu thereof.</p>
+               <p n="13">13. An Act for the better Ordering the ſelling of Wines by Retail, and for preventing Abuſes in the mingling, corrupting, and vi<g ref="char:EOLhyphen"/>tiating of Wines, and for ſetting and limi<g ref="char:EOLhyphen"/>ting the prizes of the ſame.</p>
+               <p n="14">14. An Act for the leavying of the arrears of the Twelve moneths Aſſeſſment commen<g ref="char:EOLhyphen"/>cing the 24 of <hi>June</hi> 1659. And the ſix mon<g ref="char:EOLhyphen"/>ths Aſſeſſment commencing the 25 of <hi>Decem<g ref="char:EOLhyphen"/>ber,</hi> 1659.</p>
+               <p n="15">15. An Act for Granting unto the Kings Majeſty four hundred and Twenty thouſand pounds by an Aſſeſſment of Threeſcore and ten thouſand pounds by the month, for ſix months, for disbanding the Remainder of the Army, and paying off the Navy.</p>
+               <p n="16">16. An Act for further Supplying and ex<g ref="char:EOLhyphen"/>plaining certain defects in an Act, entituled, An Act for the ſpeedy Proviſion of money for disbanding and paying off the Forces of this Kingdome both by land and Sea.</p>
+               <p n="17">17. An Act for the raiſing of Seaventy thouſand pounds for the further ſupply of his Majeſty.</p>
+               <p n="18">18. An Act for the Attainder of ſeverall perſons guilty of the Horid Murther of his late Sacred Majeſty King <hi>Charles</hi> the firſt.</p>
+               <p n="19">19. An Act for erecting and Eſtabliſhing a Poſt-Office.</p>
+               <p n="20">20. One other Act, entituled, An Act for
+<pb n="4" facs="tcp:54868:6"/>putting in Execution an Ordinance mentioned in this Act. And all and every the Clauſes, ſentences, and articles in them and every of them contained ſhall be and are hereby ra<g ref="char:EOLhyphen"/>tified and confirmed and declared to have the full force of Acts of Parliament, and ſo ſhall be adjudged and taken to all intents and pur<g ref="char:EOLhyphen"/>poſe whatſoever.</p>
+               <p>
+                  <hi>Sata.</hi> 13. <hi>Car.</hi> 2. <hi>cap.</hi> 11. That the Se<g ref="char:EOLhyphen"/>verall Acts made or mentioned to be made by his Majeſty (by and with the advice and con<g ref="char:EOLhyphen"/>ſent of the Lords and Commons) upon or ſince the 25 day of <hi>April,</hi> in the 12 year of his Majeſties Reign, and herein after particularly mentioned and expreſſed are hereby ratified and confirmed, That is to ſay.</p>
+               <p n="1">1. One Act, entituled An Act for the rai<g ref="char:EOLhyphen"/>ſing of Seaventy Thouſand pounds for the farther Supply of his Majeſty.</p>
+               <p n="2">2. An Act for Confirmation of Marriages.</p>
+               <p n="3">3. An Act for a perpetuall Anniverſary Thankſgiving on the 29 day of <hi>May.</hi>
+               </p>
+               <p>
+                  <hi>Stat.</hi> 13. <hi>Car.</hi> 2. <hi>cap.</hi> 14. The ſeverall Acts (of the aforementioned Parliament b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>gun at <hi>Weſtminſter</hi> the 25. of <hi>April</hi> in the 12. years of his Majeſty Reign aforeſaid herein particularly mentioned &amp; expreſſed are here<g ref="char:EOLhyphen"/>by ratified and confirmed; That is to ſay.</p>
+               <p n="1">1. One Act, entituled, An Act for the En<g ref="char:EOLhyphen"/>couraging and increaſing of Shipping &amp; Na<g ref="char:EOLhyphen"/>vigation.</p>
+               <p n="2">2. An Act for Prohibiting the Exportation
+<pb n="5" facs="tcp:54868:6"/>of Wool, Wool-fels Fullers-Earth, or any kind of Scouring Earth.</p>
+               <p n="3">3. An Act impowring the Maſter of the Rolls for the time being, for to make Leaſes for years, in order to new build the old Houſes belonging to the Rolls.</p>
+               <p n="4">4. An Act for prohibiting the Planting, ſetting or Sowing of Tobacco in <hi>England</hi> and <hi>Ireland.</hi>
+               </p>
+               <p n="5">5. An Act for reſtraining the taking of Exceſſive Uſury.</p>
+               <p n="6">6. An Act for the preſent nominating of Commiſſioners of Sewers.</p>
+               <p n="7">7. An Act for the incorporating of the Ma<g ref="char:EOLhyphen"/>ſter and Wardens of the Company of Haber<g ref="char:EOLhyphen"/>daſhers, <hi>London,</hi> to be Governours of the Free-School and Alms-howſes in <hi>Newport</hi> in the County of <hi>Salop,</hi> of the foundation of <hi>William Adams,</hi> and for ſetling of lands and Poſſeſſions on them for Maintenance thereof, and other Charitable uſes.</p>
+               <p>And all and every the clauſes, ſentences and Articles in them and every of them conteyned, ſhall be and are hereby ratified and confir<g ref="char:EOLhyphen"/>med, and Enacted and declared to have the full force and ſtrength of Acts of Parliament.</p>
+            </div>
+            <div type="part">
+               <head>Cauſes Eccleſiaſtical.</head>
+               <p>
+                  <hi>Stat.</hi> 13. <hi>Car.</hi> 2. <hi>cap.</hi> 12. Reciting An Act of the 17. Car. 1. Entituled, <hi>An Act for Repeal of a Branch of a ſtatute, Primo</hi> Eliz. <hi>con<g ref="char:EOLhyphen"/>cerning Commiſſioners for cauſes Eccleſiaſticall,</hi>
+                  <pb n="6" facs="tcp:54868:7"/>whereby the Ordinary courſe of Juſtice in Cauſes Eccleſiaſticall hath been obſtructed; Enacteth that neither the ſaid Act nor any thing therein contained, doth or ſhall take away any ordinary Power or Authority from any Arch-Biſhop, Biſhops, or any other perſon or perſons, &amp;c. but that they and every of them exerciſing Eccleſiaſticall Juriſdiction, may proceed, determine, Sentence, and ex<g ref="char:EOLhyphen"/>cerciſe all manner of Eccleſiaſticall Juriſdi<g ref="char:EOLhyphen"/>ction, and all Conſures and Coercions apper<g ref="char:EOLhyphen"/>taining and belonging to the ſame, before the making of the Act before recited, in all cauſes and matters belonging to Eccleſiaſticall Ju<g ref="char:EOLhyphen"/>riſdiction, according to the Kings Majecty's Eccleſiaſtical Laws uſed and practiſed in this Realm, in as ample manner and form as they did, and might lawfully have done before the making of the ſaid Act.</p>
+               <p n="2">2. That the afore recited Act 17 <hi>Car.</hi> 1. and all the matters and Clauſes therein con<g ref="char:EOLhyphen"/>teyned (Excepting what concerns the High Commiſſion Court, or the New Erection of ſome ſuch like Court by Commiſſion) ſhall be and is hereby repealed, to all intents and purpoſes whatſoever.</p>
+               <p n="3">3. Provided that this Act ſhall not extend to revive or give force to the ſaid Branch of the ſaid Statute made in the Firſt year of the Reign of the ſaid late Queen <hi>Elizabeth,</hi> men<g ref="char:EOLhyphen"/>tioned in the ſaid Act of Parliament made in the 17 year of the Reign of the ſaid King <hi>Charles,</hi> but that ſaid Branch ſhall ſtand and be repealed in ſuch ſort as if this Act had ne<g ref="char:EOLhyphen"/>ver been made.</p>
+               <pb n="7" facs="tcp:54868:7"/>
+               <p n="4">4. That it ſhall not be lawfull for any Arch-biſhop, Biſhop, Vicar-Generall, &amp;c. or any other perſon having or exerciſing Spi<g ref="char:EOLhyphen"/>ritual or Eccleſiaſtical Juriſdiction, to tender or adminiſter unto any perſon whatſoever the Oath called the Oath <hi>Ex Officio</hi> or any other Oath whereby ſuch perſon to whom the ſame is tendered or adminiſtred, may be charged or compelled, to confeſs or accuſe, or to purge him, or herſelfe, of any criminall matter or thing, whereby he or ſhe may be liable to any cenſure or puniſhment.</p>
+               <p n="5">5. That This Act ſhall not extend to give unto any Arch-Biſhop, Biſhop, or any other Spiritual or Eccleſiaſticall Judge, Officer, &amp;c. any Power or Authority to exerciſe, exe<g ref="char:EOLhyphen"/>cute, inflict or determine any Eccleſiaſtical Juriſdiction, Cenſure or Coercion, with they might not by Law have done before the year of our Lord 1639. Nor to abridge or diminiſh the Kings Supremacy in Eccleſiaſticall mat<g ref="char:EOLhyphen"/>ters and affairs, Nor to confirm the Canons made in the year 1640. nor any of them, nor any other Eccleſiaſtieal Laws or Canons not formerly confirmed, allowed, or enacted by Parliament, or by the eſtabliſhed Laws of the Land as they ſtood in the year of our Lord 1639.</p>
+            </div>
+            <div type="part">
+               <head>Carriages, &amp;c. for the King.</head>
+               <p>
+                  <hi>Stat.</hi> 13 <hi>Car.</hi> 2 <hi>cap.</hi> 8. Reciting the Act made in the 12 year of his Majeſties Reign,
+<pb n="8" facs="tcp:54868:8"/>entituled, An Act for taking away the Court of Wards and Liveries, Purveyance, &amp;c. and mentioning ſome great incoveniences which may inſue to his Majeſty thereupon in reſpect of his Majeſties Royal Progreſſes and Remon<g ref="char:EOLhyphen"/>vals. It is Enacted, That the Clerk, or chief Officer of his Majeſties Carriages, ſhall three daies at leaſt before his Majeſties arrivial, by Warrant from the Green cloth, give notice in writing to two, or more Juſtices of the Peace next adjoining, to provide ſuch a number of Carts and Carriages from the places next ad<g ref="char:EOLhyphen"/>jacent, as his Majeſty ſhall have preſent uſe of, expreſſing the certainty of that number, as alſo the time and place when and where the ſaid Carts and Carriages are to attend, which Carriages ſhall conſiſt of four able Horſes, or ſix Oxen, or four Oxen and two Horſes, for each of which Cart or Carriage, the reſpective Owners ſhall receive 6d. for each mile they ſhall goe laden: and in caſe of refuſal to provide and furniſh his Majeſty that now is, or his Queen that ſhall be, or his or her Houſhold in their Progreſs, or Removals, with ſuch ſufficient and neceſſary Carriages, for ready moneys tendred to them; or ſhall without juſt and reaſonable cauſe refuſe to make their appearance with ſuch ſufficient Carts and Carriages, as are before expreſt; That then upon due proof and conviction of ſuch neglect and refuſal, by the Oath of the Conſtable or other Officer, or two other cre<g ref="char:EOLhyphen"/>dible Witneſſes before the ſaid Juſtices of the County, or Major, or other chief Officer of
+<pb n="9" facs="tcp:54868:8"/>the City, or Corporation where he or they in habit (which Oath they ſhall have power to adminiſter) the party ſhall for ſuch his refu<g ref="char:EOLhyphen"/>ſall and neglect forfeit the ſum of Forty ſhil<g ref="char:EOLhyphen"/>lings to the King's uſe, to be ſorthwith lea<g ref="char:EOLhyphen"/>vied by diſtreſs and ſale of his goods and chat<g ref="char:EOLhyphen"/>tels, (rendring the overplus) by warrant from the ſaid Juſtices, Major, or other Officer.</p>
+               <p n="2">2. No Horſes, Oxen, Cart or Wain, ſhall be enforced to travel above one daies journey from the place where they receive their loa<g ref="char:EOLhyphen"/>ding; and that ready payment ſhall be made in hand for the ſaid Carriages, at the place of lading, without delay according to the aforeſaid rates.</p>
+               <p n="3">3. If any Juſtice of the Peace, Major, chief Officer, or Conſtable ſhall take any gift or reward to ſpare any perſon from making ſuch Carriage, or ſhall injuriouſly charge any through envy, &amp;c. who ought not to make ſuch Carriage, or ſhall Impreſs more Car<g ref="char:EOLhyphen"/>riages then ſhall be diceted from the Green<g ref="char:EOLhyphen"/>cloth, that then upon due proof and conviction thereof the party ſo offending ſhall forfeit 10 li. to the party grieved, or any who ſhall ſue for the ſame by Action of debt, &amp;c. where<g ref="char:EOLhyphen"/>in no Protection, Eſſoyn or Wager of Law ſhall be allowed.</p>
+               <p n="4">4. Any perſon preſuming to Impreſs any Horſes, Oxen, Cart, Wain, or Carriages for his Majeſties ſervice, other then the perſon ſo impowred, ſhall upon due conviction of the ſaid offence ſuffer the puniſhment contained in the firſt recited Act.</p>
+               <pb n="10" facs="tcp:54868:9"/>
+               <p n="5">5. That none of his Majeſties ſaid Servants ſhall be compelled to pay above 1 s. by the night for every Bed that they ſhall uſe for themſelves, nor above 6d. for the ſame for their ſervants: And that in all ſuch houſes where any of his Majeſties ſaid Servants ſhall pay for their Diet, or for Hay and Provender, conve<g ref="char:EOLhyphen"/>nient Lodging ſhall be provided for them<g ref="char:EOLhyphen"/>ſelves and their ſervants without paying any thing for the ſame.</p>
+               <p n="6">6. That any two or more Juſtices of Peace near the Road through which his Majeſty is to paſs, ſhall immediately after notice in writing from the ſaid Green-cloth, and Avenor, under their hands and ſeals ſet down and appoint ſuch reaſonable rates and prices to be pai'd during his Majeſties abode there both for Hay, Oats and other accommodations for Hor<g ref="char:EOLhyphen"/>ſes, as they ſhall think meet, which Rates the Juſtices ſhall cauſe to be proclaimed one day at the leaſt before his Majeſtles coming to ſuch place in the Market-Town next to ſuch place, and in ſuch other places as they ſhall think fit to the end that notice may be taken of ſuch prices. And if any take above the rates ſo limited either for Lodging, Horſe-meat, Stable-room, or other ſuch accommodations, &amp; thereof be convicted by confeſſion, or Oath of one credible Witneſs before any one Ju<g ref="char:EOLhyphen"/>ſtice of Peace, (who is to adminiſter the ſaid Oath) every perſon ſo offending ſhall forfeit and pay to the party grieved 40 s. to the lea<g ref="char:EOLhyphen"/>vied by diſtreſs (by warrant from the ſaid Ju<g ref="char:EOLhyphen"/>ſtice) and ſale thereof, returning the overplus
+<pb n="11" facs="tcp:54868:9"/>(the charge of the diſtreining being firſt de<g ref="char:EOLhyphen"/>ducted.)</p>
+               <p n="7">7. This Act to continue till the end of the firſt Seſſion of the next Parliament and no longer.</p>
+               <p>Collectors, ſee Treaſurers.</p>
+            </div>
+            <div type="part">
+               <head>Dear-ſtealing, Killing, &amp;c.</head>
+               <p>
+                  <hi>Stat.</hi> 13 <hi>Car.</hi> 2. <hi>cap.</hi> 10. That if any per<g ref="char:EOLhyphen"/>ſon or perſons ſhall after the firſt day of <hi>Au<g ref="char:EOLhyphen"/>guſt,</hi> 1661. unlawfully Courſe, Kill, hurt or take away any Red or Fallow-Deer in any Fo<g ref="char:EOLhyphen"/>reſt, Chaſe, &amp;c. or other Ground where Deer are or have been uſually kept within the Realm of <hi>England,</hi> or Dominion of <hi>Wales,</hi> without the conſent of the Owner, or perſon chiefly intruſted with the Cuſtody thereof, or ſhall be aiding or aſſiſting therein, and ſhall be convicted thereof by confeſſion, or by the Oath of one credible Witneſs before a Juſtice of Peace (who is hereby impowred to-admini<g ref="char:EOLhyphen"/>ſter an Oath to that purpoſe) ſuch perſon be<g ref="char:EOLhyphen"/>ing preſented within ſix months after ſuch offence done; ſhall forfeit for every ſuch of<g ref="char:EOLhyphen"/>fence 20 li to be leavied by diſtreſs upon the Goods and Chattels of the Offendor, by war<g ref="char:EOLhyphen"/>rant under the Juſtices hand, before whom ſuch conviction ſhall be made, the one moye<g ref="char:EOLhyphen"/>ty to the Informer, the other to the Owner of the Deer: and for want of Sufficient di<g ref="char:EOLhyphen"/>ſtreſſe, the Offender ſhall be committed to
+<pb n="12" facs="tcp:54868:10"/>the Howſe of Corection for ſix moneths, or to the Common Goale for one whole year with<g ref="char:EOLhyphen"/>out Bail or Mainpriſe, at the Juſtices diſcre<g ref="char:EOLhyphen"/>tion and not to be diſcharged, till ſufficient ſe<g ref="char:EOLhyphen"/>curity be given for their good behaviour for one whole year next enſuing their inlargement No offendor puniſhed hereby ſhall incur the penalty of any other Law or ſtatute for the ſame offence.</p>
+               <p>Diſorders, ſee Tumults.</p>
+            </div>
+            <div type="part">
+               <head>Exciſe, Arrears veſted in the King.</head>
+               <p>
+                  <hi>Stat.</hi> 13 <hi>Car.</hi> 2. <hi>cap.</hi> 13. That all and eve<g ref="char:EOLhyphen"/>ry Sum and ſums of money any waies due, or owing from or by any perſon or perſons, for or touching the Impoſition or Duty called the Exciſe, here o'ore impoſed and made payable upon Beer, Ale, or any other Commodities, by any Laws of pretended Laws or Ordinances: And all Debts therefore owing, whether by Ob<g ref="char:EOLhyphen"/>ligation or upon Accompt from the Farmers of Exciſe, or any other perſon or perſons whatſoever, or any of their Securities, and not pardoned by his Majeſties Act of Pardon and Oblivion, be and are hereby veſted in the King, his Heirs and Succeſſors; and that his ſacred Majeſty, his Heirs and Succeſſors may from time to time and at all times hereafter, have, demand, ſue for, and recover the ſame of all and every perſon and perſons, their
+<pb n="13" facs="tcp:54868:10"/>Heirs, Executors and Adminiſtrators, having Aſſets, who are any way accomptable for the ſame, or any part thereof, and from his and their reſpective Sureties and Securities, as if the ſame Duties of Exciſe had been law<g ref="char:EOLhyphen"/>fully aſſeſſed, impoſed and collected; and as if the ſeveral pretended Acts, Orders and Ordi<g ref="char:EOLhyphen"/>nances, aſſeſſing and impoſing the ſame, had been legall Acts of Parliament, and had in ex<g ref="char:EOLhyphen"/>preſs words given and granted all &amp; every the ſaid Duries unto his Majeſty; and as if the Obligations and Recognizances entered into by the reſpective Sureties and Securities had been taken in his Majeſties name.</p>
+               <p n="2">2. That all perſons accomptable by virtue of this Act, ſhall have all ſuch due allowance in their Accompts, as all ſuch perſons whoſe Accompts are excepted in <hi>the Act of Pardon, Indempnity and Oblivion,</hi> are or ought to have.</p>
+               <p n="3">3. No perſon ſhall be queſtioned or mo<g ref="char:EOLhyphen"/>leſted for any of the Duties herein, or hereby veſted in the King, except he ſhall be ſued or proſecuted with effect before the 25 of <hi>De<g ref="char:EOLhyphen"/>cember,</hi> 1662.</p>
+               <p n="4">4. That all perſons Accomptable hereby, are hereby enabled to ſue for, leavy and re<g ref="char:EOLhyphen"/>cover from any perſon who ſtands indebted unto them in any Sum of money for the Duty of Exciſe, for which they are hereby accom<g ref="char:EOLhyphen"/>ptable, all Sums of money and arrears unſa<g ref="char:EOLhyphen"/>tisfied, in as full manner as they might have received and levied the ſame when they firſt grew due.</p>
+               <pb n="14" facs="tcp:54868:11"/>
+               <p>Free Preſent, ſee Preſent.</p>
+               <p>Forfeitures to the King, ſee Pains and Penalties.</p>
+            </div>
+            <div type="part">
+               <head>Holy Orders.</head>
+               <p>
+                  <hi>Stat.</hi> 13 <hi>Car.</hi> 2. <hi>c.</hi> 2. Whereas an Act was made by the Parliament begun at <hi>Weſtminſter</hi> the 3 of <hi>Nov.</hi> in the 16 <hi>Caroli</hi> 1. entituled, <hi>An Act for disinabling all perſons in Holy Orders to exerciſe any Temporal Juriſdiction or Authority.</hi> Which Act hath made ſeveral Alterations prejudicial to the Conſtitution and antient Rights of Par<g ref="char:EOLhyphen"/>liament, and contrary to the Laws of this Land, and is by experience found otherwiſe inconvenient: It is Enacted that the ſaid Act, and every Clauſe, matter and thing therein contained, ſhall be and is hereby from henceforth repealed and made void to all in<g ref="char:EOLhyphen"/>tents and purpoſes.</p>
+               <p>The King's Perſon and Government, ſee Treaſon.</p>
+            </div>
+            <div type="part">
+               <head>Militia.</head>
+               <p>
+                  <hi>Stat.</hi> 13 <hi>Car.</hi> 2. <hi>cap.</hi> 6. A Recitation being made, that it is and ever was by the Laws of <hi>England</hi> the undoubted Right of his Majeſtie &amp; his Royall Predeceſſors, Kings &amp; Queens of <hi>England</hi> to have the ſole Supreme Govern<g ref="char:EOLhyphen"/>ment,
+<pb n="15" facs="tcp:54868:11"/>Command and Diſpoſition of the <hi>Mi<g ref="char:EOLhyphen"/>litia,</hi> and of all Forces by Sea and Land, and of all Forts and places of ſtrength, and that both or either of the Houſes of Parliament cannot, nor ought to pretend to the ſame; nor can, nor lawfully may raiſe, or leavy any War offenſive or defenſive againſt his Majeſty, his Heirs or lawfull Succeſſors; and yet the con<g ref="char:EOLhyphen"/>trary hath of late been practiſed almoſt to the ruine of the Kingdome: And whereas during the late Uſurpation many rebellious Prin<g ref="char:EOLhyphen"/>ciples have been diſtilled into the minds of the People, which unleſs prevented may break forth into diſturbance; And whereas an Act for exerciſing the <hi>Militia</hi> (with moſt ſafety and eaſe to the King and people) is under conſideration, which cannot as yet be perfe<g ref="char:EOLhyphen"/>cted, It is enacted, That the <hi>Militia</hi> and Land-Forces of this Kingdome and Dominions, &amp;c. now under the power of Lieutenants, or their Deputies, ſhall be exerciſed, ordered and ma<g ref="char:EOLhyphen"/>naged untill the 25 of <hi>March,</hi> 1662, in ſuch manner as the ſame now is actually exerciſed, ordered and managed according to ſuch Com<g ref="char:EOLhyphen"/>miſſions and Inſtructions as they formerly had, or from time to time ſhall receive from his Majeſty.</p>
+               <p n="2">2. That whereas ſince the 24 of <hi>June</hi> 1660. there have been Inſurrections by occa<g ref="char:EOLhyphen"/>ſion whereof divers have been murthered, and for the ſecurity of the Nation divers have been aſſaulted, arreſted, deteined or impriſoned, and divers Arms have been ſeized, and hou<g ref="char:EOLhyphen"/>ſes ſearched, &amp;c. It is enacted that all per<g ref="char:EOLhyphen"/>ſons
+<pb n="16" facs="tcp:54868:12"/>who have or ſhall have acted, or done any thing in execution of any Commiſſion or Commiſſions of Lieutenancy, iſſued by the King, or by colour of them or any of them touching, or concerning the ſame, or any of them, or relating thereunto, ſhall be and are hereby ſaved harmleſs, and indempnified in this behalf.</p>
+               <p n="3">3. And alſo all magiſtrares, Juſtices of the Peace, Officers and Miniſters of Juſtice, and all that have or ſhall have acted by or under them or by their or any of their Commands ſince the ſaid 24 of <hi>June</hi> 1660. untill the 20 of <hi>July</hi> 1661. as to any aſſaulting, arreſting, de<g ref="char:EOLhyphen"/>taining, or impriſoning any ſuſpected Phana<g ref="char:EOLhyphen"/>tick, Sectary, or diſturber of the Peace, or ſei<g ref="char:EOLhyphen"/>zing of Arms, or ſearching of Houſes for Arms, or for ſuſpected perſſons, ſhall be and are here<g ref="char:EOLhyphen"/>by ſaved harmleſs and indempnified.</p>
+               <p n="4">4. That this Act ſhall not after the 20 of <hi>March</hi> 1661. be prejudicial to any County, City, or place within this Kingdome which are overcharged with men &amp; Arms beyond their Antient proportion.</p>
+               <p n="5">5. That this Act ſhall not extend to the gi<g ref="char:EOLhyphen"/>ving of any power for the tranſporting of any Subjects of this Realm, or any way compel<g ref="char:EOLhyphen"/>ling them to march out of this Kingdome, otherwiſe then by the Laws of <hi>England</hi> ought to be done.</p>
+               <p n="6">6. That no perſon be capable of acting as Lieutenant, or Deputy Leiutenant or other Officer or Souldier, by vertue of this Act, who hath not taken the Oaths of Allegiance and
+<pb n="17" facs="tcp:54868:12"/>Supremacy, ſince his Majeſties return untill he ſhall take the ſame, which Oaths any 6 of the Lord of the Council are to adminiſter to any Peer, who ſhall be Commiſſionated &amp;c. and any two of the Deputy Lieutenants in their reſpective Counties to any Commoner.</p>
+            </div>
+            <div type="part">
+               <head>Moneys, Goods, &amp;c. veſted in the King.</head>
+               <p>
+                  <hi>Stat.</hi> 13. <hi>Car.</hi> 2. <hi>cap.</hi> 3. That all ſums of money, Goods, Plate, Jewells, Horſes, Arms, Ammunition, and other things whatſoever, leavied, received, or taken ſince the 30 of <hi>January</hi> 1642. by any of the late pretended Authorities, or by pretence or colour from them, or any of them for any publick uſe, (not pardoned by the Act of Oblivion, made at the Parliament begun at <hi>Weſtminſter</hi> the 25 of <hi>April</hi> in the 12 year of His Majeſties reign,) wich are not otherwiſe veſted and ſetled in the King, And all Bonds, Obligations and other Securities entred into for the ſame or any part thereof, be and are hereby veſted and ſetled in the King his Heirs and Succeſſors, who may from time to time, and at all times hereafter have, demand, ſue for, and recover the ſame of all perſons, their HeiRs, Executors and Ad<g ref="char:EOLhyphen"/>miniſtrators who are accomptable for the ſame, or in whoſe hands or poſſeſſions ſoever the ſame were, or are, as if the ſame had been leavied, received, collected or taken in the King's name, by his Authority, or to his uſe.</p>
+               <pb n="18" facs="tcp:54868:13"/>
+               <p n="2">2. That all perſons who have received any the aforeſaid ſums of money from any Trea<g ref="char:EOLhyphen"/>ſurer or Receiver for any publick uſe by way of Impreſt, to be accounted for, &amp; not pardoned, as aforeſaid, ſhall be liable to Account, &amp; cal<g ref="char:EOLhyphen"/>led to account in ſuch manner, as if they had received the ſame of the Exchequer or other Publick Treaſury, and particularly thoſe who have received, or collected the Revenues of any Churches or Vicatidges in <hi>Wales,</hi> or in the County of <hi>Monmouth</hi> ſince the year 1648.</p>
+               <p n="3">3. Provided they all have due allowances in their accounts, as all whoſe accounts are excepted in the Act of Oblivion, ought to have.</p>
+               <p n="4">4. That the King his Heirs and Succeſſons, ſhall and may iſſue out Commiſſions as ſhall be thought fit, either under the Great Seal, or Seal of the Exchequer for the Diſcove<g ref="char:EOLhyphen"/>ring, Leavying, receiving and diſcharging the ſame.</p>
+               <p n="5">5. That all perſons accountable hereby are enabled to ſue for, leavy, and recover from the parties from whom the ſame was, &amp; is due, and for which they are hereby accomptable, all ſume of money and Arears in ſuch manner and form as they might have recovered and leavyed the ſame when they firſt grew due.</p>
+               <p n="6">6. That no man ſhall be called to account or queſtioned for any Goods or other things in his hands, which ſhall not be called to account or ſome Information againſt him in the Ex<g ref="char:EOLhyphen"/>chequer, or to Commiſſioners to be appointed as aforeſaid, before the 24 of <hi>June</hi> 1662. and
+<pb n="19" facs="tcp:54868:13"/>ſuch information proſecuted with effect within Twelve moneths after the Exhibition thereof.</p>
+            </div>
+            <div type="part">
+               <head>Navy-Orders.</head>
+               <p>
+                  <hi>Stat.</hi> 13. <hi>Car.</hi> 2. <hi>cap.</hi> 9. All Officers at Sea, ſhall cauſe the Publick worſhip of God according to the Liturgy of the Church of <hi>England</hi> eſtabliſhed by Law, to be Solemnly, orderly, and reverently performed in their Reſpective ſhips, and that Prayers and Prea<g ref="char:EOLhyphen"/>chings by Chaplains in Holy Orders, of the reſpective ſhips be diligently performed, and that the Lords day be obſerved according to Law.</p>
+               <p n="2">2. Every Perſon in the Kings pay, uſing unlawfull and raſh Oaths, Curſings, Execra<g ref="char:EOLhyphen"/>tions, Drunkenneſs, Uncleanneſs, or other ſcandalous Actions, ſhall be puniſhed as the Court-Martial ſhall think fit.</p>
+               <p n="3">3. It ſhall be Death to every Perſon in the Fleet who ſhall give, hold, or entertain Intellgence to or with any King, &amp;c. being enemy to, or any perſons in Rebellion againſt the King, his Heirs and Succeflors, without the Kings leave or the leave of the Lord High Ad<g ref="char:EOLhyphen"/>mirall, Vice Admiral, or Commander in Cheif of any Squadron.</p>
+               <p n="4">4. Every perſon in the Fleet who ſhall re<g ref="char:EOLhyphen"/>ceive any Letter or Meſſage from any King, Potentate &amp;c. being enemy to the King, &amp;c. or on their behalf, and doe not within twelve hours after (having an opportunity ſo to do)
+<pb n="20" facs="tcp:54868:14"/>acquaint the ſuperior Commander with it: Or if a Superior officer or Matiner, being ac<g ref="char:EOLhyphen"/>quainted therewith, or himſelf in his own per<g ref="char:EOLhyphen"/>ſon receiving a Letter of Meſſage from any ſuch enemy, or Rebel, and ſhall not in con<g ref="char:EOLhyphen"/>venient time reveal the ſame to the Admiral, Viceadmirall, or the Commander of the Squadron, ſuch perſon ſhall ſuffer Death, or other puniſhment as the Court-Martiall ſhall think fit.</p>
+               <p n="5">5. No Perſon in the Fleet ſhall releive any Enemy or Rebell, in Time of War with any Supply whatſoever, upon pain of death, or as the Court-Martiall ſhall think fit.</p>
+               <p n="6">6. All the Papers, Charter-Parties, Bills of Lading, Paſports and other Writings what<g ref="char:EOLhyphen"/>ſoever that ſhall be found aboard any ſhip which ſhall be ſeiſed as Prize, ſhall be preſer<g ref="char:EOLhyphen"/>ved and not torn, nor made away, but the very Originals ſent up entirely, and wathout fraud to the Court of Admiralty, or ſuch as ſhall be appointed for that purpoſe, upon pain of loſs of all the ſhares of the Takers: and ſuch further puniſhment on the Offenders as the Court-Martial ſhall impoſe.</p>
+               <p n="7">7. None in the King's pay ſhall take out of any prize, or ſhip or Goods ſeized on for Prize, any money, Plate, Goods, Lading or Tackle, before Judgment thereof paſſed in the Admiralty Court, but the full account of the whole ſhall be brought in without imbezil<g ref="char:EOLhyphen"/>ment, and judgment paſs entirely upon the whole without fraud, upon pain of being pu<g ref="char:EOLhyphen"/>niſhed by a Court-Martial or the Court of
+<pb n="21" facs="tcp:54868:14"/>Admiralty, Excepting that it ſhall be lawfull for all Captains, Seamen, &amp;c. to take to them<g ref="char:EOLhyphen"/>ſelves as Pillage, without account to be given, all ſuch Goods and Merchandize (other then Arms, Ammunition, Tackle, Furniture, or Stores of ſuch ſhip,) as they ſhall find upon or above the Gun-deck of any ſhip taken in fight or prize.</p>
+               <p n="8">8. None ſhall Imbezle, Steale, &amp;c. any Cables, Anchors, Sailes, Furniture, Powder, Arms, or Ammunition of the Ship upon pain of death, or as a Court-Martial ſhall adjudge.</p>
+               <p n="9">9. If any Foorein ſhip, &amp;c. ſhall be taken as prize, without reſiſtance, then none of the Captains, Maſters, or Mariners, being Forei<g ref="char:EOLhyphen"/>ners, ſhall be ſtripped of their Cloaths, pilla<g ref="char:EOLhyphen"/>ged or beaten, upon pain that the offender for<g ref="char:EOLhyphen"/>feit double damages, but ſuch ſhips and Goods ſo taken, ſhall be preſerved entire, to receive Judgment in the Admiralty according to Ju<g ref="char:EOLhyphen"/>ſtice and Right.</p>
+               <p n="10">10. Every Captain or Commander, who upon ſignall or Order of fight, or view or ſight of any ſhips of the Enemy, Pirate or Rebel, or likelyhood of Engagement, and ſhall not put all things in a poſture for fight, and ſhall not in his own perſon according to his place, en<g ref="char:EOLhyphen"/>courage the inferior Officers, &amp;c. to fight cou<g ref="char:EOLhyphen"/>ragiouſly, &amp; not faintly to behave themſelves, ſhall be caſhiered, And if ſuch yield to the E<g ref="char:EOLhyphen"/>nemy, &amp;c. or crie for Quarter; ſuch perſon or perſons ſhall ſuffer death, or puniſhment ac<g ref="char:EOLhyphen"/>cording to his deſert.</p>
+               <p n="11">11. Every Captain, Commander or others
+<pb n="22" facs="tcp:54868:15"/>of any ſhip of War ſhall duly obſerve all the Commands of the Admiral, or other ſuperior Commander, upon pain of Death or puniſh<g ref="char:EOLhyphen"/>ment as the offence ſhall deſerve.</p>
+               <p n="12">12. Every Captain, and Officers, Mariners and Souldiers of every ſhip, &amp;c. that ſhall not in any fight doe his utmoſt againſt the ene<g ref="char:EOLhyphen"/>my, &amp;c. and aſſiſt and relieve all the King's ſhips, ſhall be tryed, and ſuffer Death or other puniſhment as the Court-Martial ſhall Judge fit.</p>
+               <p n="13">13. That the Captains, Officers, and Sea<g ref="char:EOLhyphen"/>men of all ſhips appointed for Convoy, &amp;c. who ſhall not faithfully perform the ſame, and defend the ſhips and Goods in their Convoy, without diverting to other parts or occaſions, or neglecting to fight in their defence, &amp;c. and ſubmitting thoſe in their convoy to ha<g ref="char:EOLhyphen"/>zard, or ſhall exact any Reward, from any Merchant or Maſter for conveying of any ſhip, or Veſſel, &amp;c. belonging to his Majeſties Sub<g ref="char:EOLhyphen"/>jects, they ſhall make reparation of the da<g ref="char:EOLhyphen"/>mage as the Court of Admiralty ſhall ad<g ref="char:EOLhyphen"/>judge, and alſo be puniſhed criminally either by death or otherwiſe as the Court-Martial ſhall judge fit.</p>
+               <p n="14">14. All perſons whatſoever belonging to the Fleet, who ſhall forbear to purſue or chaſe an Enemy, &amp;c. beaten, or flying, or ſhall not aſſiſt a known friend in view to his utmoſt power; ſhall ſuffer death, or puniſhment as the Court-Martial ſhall think fit.</p>
+               <p n="15">15. Upon the Command of any Service or action, no man ſhall preſume to ſtop or diſcou<g ref="char:EOLhyphen"/>rage
+<pb n="23" facs="tcp:54868:15"/>the ſaid ſervice and action upon any pre<g ref="char:EOLhyphen"/>tence of wages whatſoever upon pain of death.</p>
+               <p n="16">16. All See-Captains, Officers and Sea<g ref="char:EOLhyphen"/>men, that ſhall betray their Truſt, or turn to the Enemy, &amp;c. and either run away with their ſhip or any Ordnance, Ammunition, or Proviſion, or yield the ſame up, ſhall ſuffer death.</p>
+               <p n="17">17. All See Captains, officers, or Mariners that ſhall deſert the Service or imployment in the ſhips, or ſhall run away, or intice other ſo to doe, ſhall ſuffer death.</p>
+               <p n="18">18. All perſons that ſhall come or be found in the nature of ſpies, to bring ſeducing Letters, &amp;c. or ſhall endeavor to corrupt any Captain, &amp;c. to bettay their truſt, &amp;c. ſhall ſuffer death.</p>
+               <p n="19">19. No perſon in or belonging to the Fleet, ſhall uſe ſeditious or mutinous words, or make or endeavour to make any Mutiny, upon pain of Death.</p>
+               <p n="20">20. None ſhall conceal any Trayterous or Mutinous practices, deſign, or words, or any words againſt the King, or Government, or any words or deſigns tending to the hindrance of the ſervice, but ſhall forthwith reveal them to his ſuperior, upon pain of Puniſhment as a Court-Martial ſhall think fit.</p>
+               <p n="21">21. None ſhall quarel with his Superior Officer upon pain of ſevere puniſhment, nor ſtrike him, upon pain of death, or as a Court-Martial ſhall adjudge.</p>
+               <p n="22">22. If any find cauſe of complaint upon any juſt ground, he ſhall quietly make the ſame
+<pb n="24" facs="tcp:54868:16"/>known to his Superior or Commander in Cheif, and they are preſently to remedy the ſame, but none ſhall upon any pretence whatſoever privately attempt to ſtir up diſturbance, on pain of ſuch ſevere puniſhment as the Court-Martial ſhall inflict.</p>
+               <p n="23">23. None ſhall quarrel or fight in the ſhip, nor uſe provoking ſpeeches, tending to make Quarrel, &amp;c. upon pain of impriſon<g ref="char:EOLhyphen"/>ment and other puniſhment as the Court-Mar<g ref="char:EOLhyphen"/>tial ſhall adjudge fit.</p>
+               <p n="24">24. There ſhall be no waſtful expence of any Ammunition, &amp;c. or other ſtores in the Fleet, nor any imbezilment thereof, but that the ſame be carefully preſerved, upon pain of ſuch puniſhment, upon the offenders, Abet<g ref="char:EOLhyphen"/>ters, byers and Receivers, as the Court-Mar<g ref="char:EOLhyphen"/>tial ſhall adjudge.</p>
+               <p n="25">25. That ſuch as ſhall be found guilty either through wilfullneſs, negligence, or other de<g ref="char:EOLhyphen"/>faults in the conducting and Steering of the ſhips, that none be ſtranded, &amp;c. or ſplit, or hazarded upon pain of ſuch puniſhment as a Court-Martial ſhall adjudge.</p>
+               <p n="26">26. Every one that ſhall willingly ſet on fire any ſhip, Magazine, Store, boat, Ketch, Hoy, or Veſſell, Tackle or Furniture, not appertaining to an Enemy, or Rebel, ſhall be puniſhed with death.</p>
+               <p n="27">27. None ſhall ſleep upon his Watch, neglect the duty impoſed, or forſake his Sta<g ref="char:EOLhyphen"/>tion, upon pain of death: or as the Caſe ſhall require.</p>
+               <p n="28">28. All Murthers and wilfull Killing of
+<pb n="25" facs="tcp:54868:16"/>any in the ſhip ſhall be puniſhed with death.</p>
+               <p n="29">29. All Robbery &amp; Theft ſhall be puniſhed with death, or as the Court-Martiall ſhall think fit.</p>
+               <p n="30">30. No Provoſt-Martiall, ſhall refuſe to re<g ref="char:EOLhyphen"/>ceive or keep any Priſoner committed to his charge, nor ſuffer ſuch to eſcape, nor diſmiſſe him without order, on pain of the ſame puniſh<g ref="char:EOLhyphen"/>ment, which ſhould have been inflicted upon the party diſmiſſed, or permitted to eſcape, or as the Court-Martial ſhall think fit.</p>
+               <p n="3">3. All Captains, Officers, and Seamen, ſhall doe their endeavours to detect, appre<g ref="char:EOLhyphen"/>hend and bring to puniſhment all Offenders, and ſhall aſſiſt the Officers, for that purpoſe, on pain of being puniſhed by the Court-Mar<g ref="char:EOLhyphen"/>tiall.</p>
+               <p n="32">32. Every one committing the unnatural and deteſtable ſin of Buggery or Sodomy with man or Beaſt, ſhall ſuffer death without mercy.</p>
+               <p n="33">33. All Faults, Miſdemeanors, and diſor<g ref="char:EOLhyphen"/>ders, committed at Sea, nor herein mentio<g ref="char:EOLhyphen"/>ned, ſhall be puniſhed according to the Laws and Cuctoms uſed in ſuch Caſes at Sea.</p>
+               <p n="34">34. The Lord High Admiral for the time being, ſhall grant Commiſſions to inferior Vice Admirals, or Commander in Cheif of any Squadron of ſhips, to call Court-Martials, conſiſting of Commanders, and Captains, and no Court-Martiall, for inflicting death, ſhall conſiſt of leſs then five Captains, the Admiralls Lieutenant to be as to this purpoſe eſtemed as a Captain: and in no caſe wherein Sentence of Death ſhall paſs, by vertue of
+<pb n="26" facs="tcp:54868:17"/>any of the artiels aforeſaid (except in eaſe of Mutiny) ſhall ſuch ſentence be executed, without the leave of the Lord High Admiral, if the offence be committed within the Nar<g ref="char:EOLhyphen"/>row Seas; But if beyond the narrow Seas, the offence ſhall be committed, whereupon the Sentence of death ſhall be given, &amp;c. then Execution ſhall not be done but by order of the Commander in chief of that Fleet, &amp;c. wherein ſentence of death was paſſed.</p>
+               <p n="35">35. The Judge Advocate of any Fleet for the time being, ſhall have power to admini<g ref="char:EOLhyphen"/>ſter an Oath to any perſon or witneſs in order to the Examination or Tryal of any of the offences aforeſaid, and in his abſence the Court-Martiall ſhall appoint one to admini<g ref="char:EOLhyphen"/>ſter an Oath as aforſaid.</p>
+               <p n="36">36. That this Act, &amp;c. ſhall not extend to give unto the Lord Admiral of <hi>England</hi> for the time being, or to any his Vice-Admiralls, &amp;c. or to any claiming Admirall-power, &amp;c. within any the King's Dominions, any other power, right, Juriſdiction, &amp;c. then he or they or any of them, lawfully have, or ought to have and enjoy before the making of this Act, other then for ſuch of the offences Specified in the ſeverall Articles herein contained, as ſhall he hereafter done upon the main Sea, or in ſhips or Veſſels, being and hovering in the main ſtream of Great Rivers, only beneath the Bridges of the ſame Rivers, nigh to the ſea within the Admiralty Juriſdiction, and in none other places whatſoever, and committed only by ſuch as ſhall be in actual ſervice and pay in the King's Fleet, or ſhips of War.</p>
+            </div>
+            <div type="part">
+               <pb n="27" facs="tcp:54868:17"/>
+               <head>Preſent to the King.</head>
+               <p>
+                  <hi>Stat.</hi> 13 <hi>Car.</hi> 2. <hi>c.</hi> 4. enacted, That the King may iſſue out ſuch and ſo many ſeveral Commiſſions, under his Great Seal of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> into the ſeveral Counties, Cities, Towns Corporate, and all other places in <hi>England</hi> and <hi>Wales,</hi> and <hi>Berwick</hi> upon <hi>Tweed,</hi> directed to ſuch as the King ſhall think fit, for the re<g ref="char:EOLhyphen"/>ceiving of ſuch Subſcriptions, as his Subjects ſhall voluntarily offer, for ſupply of his Maje<g ref="char:EOLhyphen"/>ſties preſſing occaſions, and likewiſe to iſſue ſuch other Commiſſions to ſuch other perſons as the Kings ſhall think fit, for Collecting and receiving the moneys ſo ſubſcribed, and the Acquittance of any one of which reſpective Receivers, are immediatly to be made &amp; given upon pay ſo made without any Fee, and ſhall be a diſcharge for the ſum ſo ſubſcribed, And in caſe ſuch ſubſcriptions ſhall upon any occa<g ref="char:EOLhyphen"/>ſion be returned into the Exchequer, or other place, the payment thereof ſhall be likewiſe returned together with the ſame.</p>
+               <p n="2">2. Proceſs ſhall iſſue out of the Exchequer againſt any Subſcibers, but within two years after the paſſing of this Act.</p>
+               <p n="3">3. The ſaid Commiſſioners of the reſpe<g ref="char:EOLhyphen"/>ctive Counties and places aforſaid are after the iſſuing out &amp; receipt of the ſaid Commiſ<g ref="char:EOLhyphen"/>ſions to meet at the common place of mee<g ref="char:EOLhyphen"/>ting for each County and place, &amp;c. and ſo many of them as ſhall be preſent at the ſaid
+<pb n="28" facs="tcp:54868:18"/>firſt Generall meetings, or the major part of them, may ſever themſelves into Hundreds and other places, &amp;c. within their limits, as they ſhall think fit, and ſhall from times to time give notice of the reſpective times and places of their meetings to the end that all perſons may reſort to them to make ſuch of<g ref="char:EOLhyphen"/>fers or Preſent to his Majeſty as their own hearts ſhall prompt them to.</p>
+               <p n="4">4. Provided, no Peer of this Realm, ſhall in ſuch Offer or Preſent exceed the ſum of 400 li. Nor any perſon not being a Peer of this Realm exceed the ſum of 200 li.</p>
+               <p n="5">5. That No Commiſſions to be iſſued out by Vertue of this Act ſhall be of ſorce as to the receiving of any moneys or Subſcriptions for moneys after the 24 of <hi>June</hi> 1662.</p>
+               <p n="6">6. It is declared that no Commiſſions or aids of this nature can be iſſued out or Lea<g ref="char:EOLhyphen"/>vied but by Authority of Parliament, and that this Act and the ſupply granted ſhall not be drawn into example for the future.</p>
+            </div>
+            <div type="part">
+               <head>Pains, Penalties, &amp;c. on excepted Perſons.</head>
+               <p>
+                  <hi>Stat.</hi> 13 <hi>Car.</hi> 2. <hi>cap.</hi> 15. Reciting the Senſe of the Act of Indempnity touching Pains, Penalties, and Forſeitures, to be inflicted on ſuch as were the wicked Inſtruments of that Horrid and execrable Treaſon the Murder of King <hi>Charles</hi> the firſt, &amp;c. It is, enacted, That all and every the Manours, Meſſuages, Lands,
+<pb n="29" facs="tcp:54868:18"/>Tenements, Rents, Reverſions, Remainders, Poſſeſſions, Rights, Conditions, Intereſts, Of<g ref="char:EOLhyphen"/>fices, Fees, annuities and all other the Heredi<g ref="char:EOLhyphen"/>taments, Leaſes for years, Chattels real, and other things of what nature ſoever they be, of <hi>Iſaac Ewer,</hi> Sir <hi>John Danvers,</hi> Sir <hi>Thomas Maleverer, William Pureſoy, John Blakiſton,</hi> Sir <hi>William Conſtable, Richard Deane, Francis Aleyn, Peregrin Pelham, John Moore, John Aldred</hi> alia <hi>Alured, Humphry Edwards,</hi> Sir <hi>Gregory Norton, John Venn, Thomas Andrews</hi> Alder<g ref="char:EOLhyphen"/>man, <hi>Anthony Stapley, Thomas Horton, John Fry, Thomas Hammond,</hi> Sir <hi>John Bourchier,</hi> all de<g ref="char:EOLhyphen"/>ceaſed. —<hi>William</hi> Lord <hi>Mounſon, James Chal<g ref="char:EOLhyphen"/>loner</hi> deceaſed, Sir <hi>Henry Mildmay,</hi> Sir <hi>James Harrington, John Phelps, Robert wallop,</hi> and Sir <hi>Arthur Hazlerigge,</hi> (who during his life com<g ref="char:EOLhyphen"/>mitted many horrid and traiterous crimes, &amp;c.) which they or any of them or any other to their or any of their uſes or in truſt, &amp;c. had the 25 of <hi>March</hi> in the year of our Lord 1646. or at any time ſince, ſhall ſtand and be forfeited to the King, his Heirs and ſucceffors, and ſhall be adjudged to be in the actual and real Poſſeſſion of the King without any Of<g ref="char:EOLhyphen"/>fice, &amp;c.</p>
+               <p n="2">2. And alſo that all and every the Goods, Debrs, &amp; other the Chattels perſonal whatſo<g ref="char:EOLhyphen"/>ever, of the aforeſaid perſons deceaſed, whereof they or any of them atthe time of their reſpe<g ref="char:EOLhyphen"/>ctive deaths, or any other in truſt for them or any of them ſtood poſſeſſed or intereſſed in Law or Equity, and all the Goods, Debrs, and other the Chattells perſonal whatſoever of them the
+<pb n="30" facs="tcp:54868:19"/>ſaid <hi>William</hi> Lord <hi>Mounſon,</hi> Sir <hi>Henry Mildmay,</hi> Sir <hi>James Harrington, John Phelps,</hi> and <hi>Robert Wallop,</hi> whereof upon the Eleventh day of <hi>February</hi> in the year of our Lord 1659. they or any of them or any other in truſt for them or any of them ſtood poſseſsed either in Law or Equity, ſhall be adjudged forfeited to the King, and are hereby put into the actuall and reall poſseſſion of the King without any fur<g ref="char:EOLhyphen"/>ther Office, &amp;c.</p>
+               <p n="3">3. That no Conveyance, Aſsurance, &amp;c. whatſoever, of or out of any Manours, Lands Tenements or Hereditaments, not being the Late King's, Queens, or Prince, or of any Arch-Biſhop, Biſhops, Deans, Deans and Cha<g ref="char:EOLhyphen"/>pters, nor being Lands or Hereditaments ſold or given for Delinquency or pretended De<g ref="char:EOLhyphen"/>liquency, by pretext of ſome Act, Order, Or<g ref="char:EOLhyphen"/>dinance or pretended Order ſince the firſt day of <hi>January</hi> 1641. Nor any Statute Judgment or Recognizance, hand made, &amp;c. to any per<g ref="char:EOLhyphen"/>ſon, Bodies Politick, or Corporate before the 29 of <hi>September,</hi> 1659. by any of the aforeſaid offenders, or their Heirs, or by any others claiming by, from, or under them, or any of them, other then the Wife or Wives, Childe or Children, Heir or Heirs of the ſaid perſons, for money <hi>bona fide,</hi> to them or any of them paid, or lent, or other valuable Conſideration, nor any Conveyance, Aſſurance, &amp;c. made be<g ref="char:EOLhyphen"/>fore the 25 of <hi>April</hi> 1660. by any perſon or perſons to the offenders aforeſaid in truſt, and for the benefit of any other perſon, or perſons, not being any of the offenders aforeſaid, or in
+<pb n="31" facs="tcp:54868:19"/>truſt for any Bodies Politick, or Corporate, ſhall be impeached, defeared, made void, or fruſtra<g ref="char:EOLhyphen"/>ted hereby, or by any of the Convictions, and attainders as aforeſaid, But the ſame ſhall be held and enjoied, by the Purchaſees, Grantees, Leaſees, Aſſigns, <hi>Ceſtuy que vſe, Ceſtuy que truſt,</hi> and every of them, their heirs, &amp;c. reſpecti<g ref="char:EOLhyphen"/>vely, as if this Act had not been made, ſo as the ſaid Conveyances and all and every the Grants and Aſſurances with by vertut hereof ought to be held &amp; enjoyed as aforeſaid, ſhall before the firſt day of <hi>January</hi> 1662. be en<g ref="char:EOLhyphen"/>tred and enrolled of Record, in the Exche<g ref="char:EOLhyphen"/>quer and not otherwiſe.</p>
+               <p n="4">4. That <hi>William</hi> Lord <hi>Mounſon,</hi> Sir <hi>Henry Mildmay,</hi> Sir <hi>James Harrington, Robert Wallop,</hi> Eſq; and <hi>John Phelps,</hi> ſhall be and are hereby degraded from all Titles of Honour, Digni<g ref="char:EOLhyphen"/>ties and preheminences, wich they now have, or hereafter may deſcend unto them, And none of them ſhall bear or uſe the ſtyle of Lord, Baronet, Knight, Eſquire, or Gentle<g ref="char:EOLhyphen"/>man, nor any Coats of Arms or other Legal Title or addition, but hereby are made perſons of Diſhonour and Infamy.</p>
+               <p n="5">5. That the ſaid <hi>William Mounſon, Henry Mildmay, James Harrington, Robert Wallop,</hi> and <hi>John Phelps,</hi> ſhall upon the 27 of <hi>January</hi> 1661. or ſo ſoone after as they ſhall be appre<g ref="char:EOLhyphen"/>hended, carried to the Tower of <hi>London,</hi> and from thence drawn upon Sledges with Ropes about their necks, quite through the Streets unto the Gallows at <hi>Tiburn,</hi> and in like man<g ref="char:EOLhyphen"/>ner be brought back again, and be impri<g ref="char:EOLhyphen"/>ſoned
+<pb n="32" facs="tcp:54868:20"/>during the terme of their natural lives.</p>
+               <p n="6">6. That no executor or Adminiſtrator to any of the dead perſons whoſe Eſtate is herby for<g ref="char:EOLhyphen"/>feited, ſhall be ſued, or moleſted for any Debt or Legacy, by them pai'd, as Executors or Ad<g ref="char:EOLhyphen"/>miniſtrators, to any perſon to whom the ſame was due or bequeathed, and was paid <hi>bona fide;</hi> but the reſpective Legatees who have recei<g ref="char:EOLhyphen"/>ved, &amp;c. ſhall be accountable and pay tho ſame to the King.</p>
+               <p n="7">7. Nothing herein ſhall be conſtrued to forfeit the terme, eſtate or intereſt which Sir <hi>William Lewes</hi> of <hi>Borden</hi> in the County of <hi>Southampton,</hi> had, or hath in the Cuſtody of the Park called <hi>Eaſt-Mean</hi> Park in the ſaid County and in the Game of Conies therein, for the Term of three years to come from Our Lady-day laſt being the remaining years of a greater term (the ſaid Sir <hi>William</hi> being formerly poſſeſſed thereof) the which Park and premiſſes belonging to the Biſhop of <hi>Wincheſter</hi> the ſaid Sir <hi>William</hi> hath ſurrendred to the Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Wincheſter,</hi> and hath now taken a new Leaſe for three Lives, the which ſaid Leaſe for three lives to the ſaid Sir <hi>William,</hi> ſhall not<g ref="char:EOLhyphen"/>withſtanding this Act, remain firm and Good; ſaving alwaies to every perſon, &amp;c. their heirs &amp;c. all ſuch Eſtate, Right, Title, and In<g ref="char:EOLhyphen"/>tereſt in Law &amp; Equity which any perſon hath or ought to have therein, not being in truſt for any of the ſaid offenders, nor derived by, from, or under them ſince the 25 of <hi>March</hi> 1646. ſaving alwaies and reſerving to <hi>Cuthbert Collingwood</hi> Eſq; and <hi>George Collingwood,</hi>
+                  <pb n="33" facs="tcp:54868:20"/>Gent. his Son, their and every of their Heirs and Aſſigns, &amp; the Farmers and Tenants of the ſaid <hi>Cuthbert</hi> and <hi>George,</hi> or either of them, and of their Heirs and Aſſigns, All ſuch Right, Title of Entry, and Action, Uſe, Intereſt, and Poſſeſſion, which any of them, or any in truſt for them, have, or had, or ought to have of, into or out of the Mannors, Townſhips, Villa<g ref="char:EOLhyphen"/>ges, Hamblets and Precincts of <hi>Eſlington, Whittingham, Barton, Throunton, Frawden, Kein<g ref="char:EOLhyphen"/>ton, Weſt-Brunton, Eaſt-Brunton, Dunnington, Blakedon,</hi> alias <hi>Blagdon,</hi> and <hi>Wetſlade,</hi> or any of them in the County of <hi>Northumberland;</hi> and of, in, to or out of the Lands, Tenements, &amp;c. and Appurtenances to any of them be<g ref="char:EOLhyphen"/>longing.</p>
+               <p n="8">8. That this Act ſhall not prejudice the Eſtate and Intereſt in Law or Equity, of <hi>Ra<g ref="char:EOLhyphen"/>chell Powre</hi> Widow, of, in, and to one Copy<g ref="char:EOLhyphen"/>hol-Meſſuage and Mill, with the appurtenan<g ref="char:EOLhyphen"/>ces, being in <hi>Chepmanſford</hi> in the County of <hi>Southampton,</hi> which by Order &amp; Decree of the High Court of Chancery of the 21 <hi>June</hi> 1661 ſhe is to be forthwith reſtored unto and put into poſſeſſion of, &amp;c. but that ſhe ſhall hold and enjoy the ſame according to the ſaid Decree.</p>
+               <p n="9">9. That it ſhall be lawful for <hi>Barrington Bourchier</hi> Eſq; Son and Heire of Sir <hi>John Bour<g ref="char:EOLhyphen"/>chier</hi> before mentioned, to hold and enjoy all and ſingular the Lands, &amp;c. to him lately granted, &amp;c. by Letters Pattents under the Great Seal of <hi>England,</hi> bearing date the 22 day of <hi>March</hi> in the 13 year of his Majeſties
+<pb n="34" facs="tcp:54868:21"/>Reign, againſt his Majeſtie, &amp;c. for ever, ac<g ref="char:EOLhyphen"/>cording to the full intent and meaning of the ſaid Letters Patents.</p>
+               <p>Preſervation of the King's Perſon and Government, ſee Treaſon.</p>
+               <p>Petitions and Addreſſes, ſee Tumults.</p>
+            </div>
+            <div type="part">
+               <head>Treaſon.</head>
+               <p>
+                  <hi>Stat.</hi> 13 <hi>Car.</hi> 2. <hi>cap.</hi> 1. That if any per<g ref="char:EOLhyphen"/>ſon after the 24 of <hi>June</hi> 1661. during the na<g ref="char:EOLhyphen"/>turall life of the King, ſhall within the Realm or without, compaſs, imagine invent, deviſe, or intend death or deſtruction, or any bodily harm tending to death or deſtruction, maim or wounding, impriſonment or reſtraint of the perſon of the King, or to deprive or depoſe him from the ſtyle, Honour or Kingly name, of the Imperiall Crown of this Realm, or of any other his Majeſties Dominions or Coun<g ref="char:EOLhyphen"/>treys, or to Levy war againſt his Majeſtie within this Realm or without, or to move or ſtir any foreiner or ſtrangers with force to in<g ref="char:EOLhyphen"/>vade this Realm, or any other his Majeſties Dominions or Countreys, being under his Ma<g ref="char:EOLhyphen"/>jeſties obeyſance: And ſuch compaſſings, ime<g ref="char:EOLhyphen"/>ginations, inventions, devices or intentions, or any of them, ſhall expreſs, utter or declare by any Printing, Writing, Preaching, or malicious and adviſed ſpeaking, being legally convicted thereof, upon the Oaths of two law<g ref="char:EOLhyphen"/>full and credible Witneſſes, upon Tryall, or
+<pb n="35" facs="tcp:54868:21"/>otherwiſe convicted or attainted by due courſe of Law, then every ſuch perſon ſo offending as aforeſaid ſhall be adjudged Traytors, and ſhall ſuffer death, and loſe and forfeit as in caſes of High Treaſon.</p>
+               <p n="2">2. If any perſon after the 24 of <hi>June,</hi> 1661. during his Majeſties life, ſhall mali<g ref="char:EOLhyphen"/>ciouſly and adviſedly publiſh or affirm the King to be an Heretique or a Papiſt, or that he endeavours to introduce Popery; or ſhall maliciouſly or adviſedly, by Writing, Prin<g ref="char:EOLhyphen"/>ting, Preaching, or other ſpeaking, expreſs, publiſh, utter or declare any words, ſentences, or other thing or things, to incite or ſtir up the people to hatred, or diſlike of the perſon of his Majeſty, or the eſtabliſhed Government; then every ſuch perſon and perſons being thereof legally convicted, ſhall be incapable of having any place, office, or Promotion Ec<g ref="char:EOLhyphen"/>cleſiaſtical, Civil or Military, or any other im<g ref="char:EOLhyphen"/>ployment in Church or State, other then that of his Peerage, and ſhall likewiſe be liable to ſuch further puniſhments as by the Common Laws or Statutes of this Realm may be inflicted in ſuch Caſes.</p>
+               <p n="3">3. If any perſon or perſons after the 24 of <hi>June,</hi> 1661. ſhall malitiouſly &amp; adviſedly by Writing, Printing, Preaching or other ſpea<g ref="char:EOLhyphen"/>king, expreſs, publiſh, utter, declare or affirm, that the Parliament begun at <hi>Weſtminſter</hi> the the 3 day of <hi>November</hi> 1640. is not yet diſſol<g ref="char:EOLhyphen"/>ved, or determined, or that it be in beeing, or hath yet any continuance or exiſtence, or that there lies any Obligation upon him, or
+<pb n="36" facs="tcp:54868:22"/>any other perſon, from any Oath, Covenant, or Engagement whatſoever, to endeavour a change of Government either in Church or State, or that both or either Houſe of Parlia<g ref="char:EOLhyphen"/>ment, have, or hath a Legiſlative Power with<g ref="char:EOLhyphen"/>out the King, or any other words to the ſame effect, then every ſuch offender ſhall incur the danger and penalty of a <hi>Praemunire,</hi> 16 <hi>R.</hi> 2.</p>
+               <p n="4">4. That the Oath uſually called the <hi>Solemn League and Covenant,</hi> was in it ſelf an unlawful Oath, and impoſed againſt the fundamental Laws of this Kingdome, and that all Orders, Ordinances, or pretended Orders and Ordi<g ref="char:EOLhyphen"/>nances of both or either Houſes of Parliament, for impoſing of Oaths, Covenants or En<g ref="char:EOLhyphen"/>gagements, Leavying of Taxes, or raiſing of Forces and Arms, to which the Royal aſſent either in perſon or by Commiſſion, was not ex<g ref="char:EOLhyphen"/>preſly had or given, were in their firſt Crea<g ref="char:EOLhyphen"/>tion and ſtill are, and ſo ſhall be taken, to be null and void.</p>
+               <p n="5">5. That all perſons who have been or ſhall be queſtioned for any thing done by colour of any the Orders or Ordinances herein before mentioned to be null, and are Indempnified by the late Act of Indempnity, or ſhall be in<g ref="char:EOLhyphen"/>dempnified by any Act of Parliament, ſhall and may make ſuch uſe of the ſaid Orders and Ordinances, for their Indempnity, according to the true intent of the ſaid Act, and no other, as might have been done if this Act had not been made.</p>
+               <p n="6">6. That no Perſon be proſecuted for any of the Offences in this Act (other then ſuch
+<pb n="37" facs="tcp:54868:22"/>as are High Treaſon) but by order of the King, &amp;c. under the Sign Manual, or by Order of the Council Table, &amp;c. directed unto the Attourney Generall for the time being, or ſome other of the King's Councill learned.</p>
+               <p n="7">7. None ſhall incur any of the Penalties herein (before mentioned) unleſs proſecu<g ref="char:EOLhyphen"/>ted within ſix moneths next after the offence committed, and indicted within three months after ſuch proſecution.</p>
+               <p n="8">8. None ſhall be indicted, arraigned, con<g ref="char:EOLhyphen"/>demned, convicted, or attainted for any of the Treaſons, or offences aforeſaid, unleſs accuſed by two lawfull and credible Witneſſes upon Oath, which Witneſſes ſhall be brought face to face, at the time of the Offenders arraign<g ref="char:EOLhyphen"/>ment, and there avow and maintain upon oath the Treaſon, &amp;c. unleſs the parties arraigned ſhall willingly confeſſe the ſame.</p>
+               <p n="9">9. Nothing herein contained ſhall extend to deprive either Houſes of Parliament or any of their Members of their juſt antient Free<g ref="char:EOLhyphen"/>dome and Priviledge of debating, &amp;c. or at any Conferences or Committees, &amp;c. but that the ſaid Members of either of the ſaid Houſes, and the Aſſiſtants of the Houſe of Peers, and every of them, ſhall have the ſame freedome of Speech and all other Priviledges, as they had before the making of this Act.</p>
+               <p n="10">10. No Peer of this Realm, ſhall be tried for any of the ſaid offences, but by his Peers; and that Every Peer convicted of any of the ſaid offences, after ſuch conviction, be diſ<g ref="char:EOLhyphen"/>abled, during his life, to ſit in Parliament, un<g ref="char:EOLhyphen"/>leſs
+<pb n="38" facs="tcp:54868:23"/>the King ſhall pardon him; and if the King ſhall grant his pardon to any Peer of this Realm or Commoner, convicted as aforeſaid, the Peer or Commoner ſo pardoned, ſhall be reſtored to all intents, as if never convicted.</p>
+            </div>
+            <div type="part">
+               <head>Tumults.</head>
+               <p>
+                  <hi>Stat.</hi> 13 <hi>Car.</hi> 2. <hi>c.</hi> 5. That no perſon or per<g ref="char:EOLhyphen"/>ſons whatſoever ſhall from &amp; after the firſt of <hi>Auguſt</hi> 1661. Sollicite, labour or procure the getting of hands, or other conſent, of any per<g ref="char:EOLhyphen"/>ſons above the number of Twenty or more, to any Petition, Complaint Remonſtrance, Decla<g ref="char:EOLhyphen"/>ration or other Addreſs to the King, or both or either Houſes of Parl. for alteration of matters eſtabliſhed by Law in Church or State, unleſs the matter thereof hath been firſt conſented unto, and Ordered by three or more Juſtices of that County, or by the Major part of the Grand Jury of the County, or Diviſion of the County, where the ſame matter ſhall ariſe at their Publick Aſſizes, or Generall Quarter Seſſions; or if ariſing in <hi>London,</hi> by the Lord Maior, Aldermen and Commons in Common-Council aſſembled.</p>
+               <p n="2">2. That no perſon or perſons whatſoever, ſhall repaire to the King, or Parliament, upon pretence of preſenting any Petition, Com<g ref="char:EOLhyphen"/>plaint, Remonſtrance, or Declaration, or other Adreſses accompanied with exceſſive numbers of people, nor at any one time, with above the number of Ten perſons, upon pain of penalty not exceeding 100 l. in money, and
+<pb n="39" facs="tcp:54868:23"/>three months impriſonment without Bail or Mainprize for every offence, which offence to be proſecuted at the King's Bench, or at the Aſſizes, or General Quarter Seſſions, within ſix months after the offence committed, and proved by two or more credible Witneſses.</p>
+               <p n="3">3. That this Act ſhall not extend to hinder any perſons not exceeding the number of Ten (as aforeſaid) to preſent any Publick or pri<g ref="char:EOLhyphen"/>vate Grievance or Complaint to any Members of Parliament after his Election, and during the Parliament, or to the King for any Reme<g ref="char:EOLhyphen"/>dy to be had thereupon, nor to extend to any addreſs whatſoever to the King, by all or any the Members of both or either Houſes of Par<g ref="char:EOLhyphen"/>liament, during the ſitting of the Parliament; but that they may enjoy their freedome of ac<g ref="char:EOLhyphen"/>ceſs as formerly.</p>
+            </div>
+            <trailer>The End.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
